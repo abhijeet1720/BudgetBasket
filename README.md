@@ -59,7 +59,7 @@ Frontend
 - Save favourite items
 - Price trend analytics
 
-👨‍💻 Author
+👨‍💻 Author:
 Abhijeet S Bhagwat
 
 ⭐ Why this project matters
